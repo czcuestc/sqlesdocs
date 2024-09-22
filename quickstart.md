@@ -1,4 +1,5 @@
-下载[SqlEs demo](https://github.com/czcuestc/sqles)
+# 快速开始
+下载[SqlEs demo](https://github.com/czcuestc/sqles)直接运行
 
 1. 环境要求
 
